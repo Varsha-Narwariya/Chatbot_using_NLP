@@ -49,7 +49,7 @@ P4-Implementation-of-Chatbot-using-NLP/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Varsha-Narwariya/ChatBot-using-NLP
+   git clone https://github.com/Varsha-Narwariya/ChatBot_using_NLP
    ```
 2. Install dependencies:
    ```bash
